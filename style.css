@@ -9,7 +9,7 @@ body{
 	
  }
 .meore{	
-	 margin-left:200px;
+	 padding-inline:100px;
  }
 .centri{
 	 text-align: center;
@@ -35,4 +35,7 @@ body{
 	text-align: center;
 	font-size: larger;
 	font-family: unset;
+}
+.icon{
+	
 }
